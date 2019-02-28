@@ -57,6 +57,9 @@ Each variable or function will have a short descriptive name, should only contai
 ## CSS classes and ids Naming Convention
 Each css class or id will have a short and descriptive name, should only contain letters, numbers and hyphen, and should be written in lowercase (Ex: #login-page, .red-bg, etc)
 
+## Code documentation
+We will use [JSDoc](http://usejsdoc.org/) for the documentation of the App, every file, function, class, interface, component, container, etc in the project must be properly documented.
+
 ## Installing the project
 Once you clone the project, you can use yarn to install it by running:
 ### `yarn install`
