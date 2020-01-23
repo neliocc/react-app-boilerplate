@@ -1,6 +1,6 @@
 
 ## React App Boilerplate
-This is boilerplate code for a React App that uses Redux. It contains some examples, instructions, and a recommended file structure. The last update was on February 28th, 2019, so make sure you [Update to the Latest Release](https://facebook.github.io/create-react-app/docs/updating-to-new-releases) of the create react app before starting to work on your project.
+This is boilerplate code for a React App that uses Redux. It contains some examples, instructions, and a recommended file structure. The last update was on February 23rd, 2020, so make sure you [Update to the Latest Release](https://facebook.github.io/create-react-app/docs/updating-to-new-releases) of the create react app before starting to work on your project.
 
 ## Folders Structure
 - #### assets
